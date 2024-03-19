@@ -19,14 +19,14 @@
         {
             "key": "PushShare1",
             "name": "🔞我的资源分享1",
-            "type": 3,
+            "type": 1,
             "api": "csp_PushShare",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.1.txt$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.1.txt$$$1"
         },
         {
             "key": "PushShare2",
