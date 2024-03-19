@@ -1,6 +1,35 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/pg.jar",
+    "spider": "https://s3.tebi.io/mhq/tv/pg.jar",
     "wallpaper": "https://invalid.gq/IS8nrIwAOp7v1A",
+    "rules": [
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "有趣的小视频",
+                "uue29",
+                "最新情报",
+                "UUE29"
+            ]
+        }
+    ],
     "lives": [
         {
             "group": "redirect",
@@ -8,7 +37,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=./12163.txt"
+                        "proxy://do=live&type=txt&ext=http://mhq.coms.su/upload/tv/12163.txt"
                     ]
                 }
             ]
@@ -19,14 +48,14 @@
         {
             "key": "PushShare1",
             "name": "🔞我的资源分享1",
-            "type": 1,
+            "type": 3,
             "api": "csp_PushShare",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.1.txt"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.1.txt$$$$$1"
         },
         {
             "key": "PushShare2",
@@ -1685,7 +1714,7 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.139.txt$$$$$1"
         }
     ],
-    "parses": [
+     "parses": [
         {
             "name": "猫影视json",
             "type": 1,
