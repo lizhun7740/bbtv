@@ -1,5 +1,5 @@
 {
-    "spider": "./pg.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/pg.jar",
     "wallpaper": "https://invalid.gq/IS8nrIwAOp7v1A",
     "lives": [
         {
@@ -25,7 +25,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./pushshare.a.txt$$$db$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.a.txt$$$db$$$1"
         },
         {
             "key": "PushShareb",
@@ -37,7 +37,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./pushshare.b.txt$$$db$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.b.txt$$$db$$$1"
         },
         {
             "key": "PushSharec",
@@ -49,7 +49,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./pushshare.c.txt$$$db$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.c.txt$$$db$$$1"
         },
         {
             "key": "PushShared",
@@ -61,7 +61,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./pushshare.d.txt$$$db$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.d.txt$$$db$$$1"
         },
         {
             "key": "PushSharee",
@@ -73,7 +73,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./pushshare.e.txt$$$db$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.e.txt$$$db$$$1"
         },
         {
             "key": "PushSharef",
@@ -85,7 +85,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./pushshare.f.txt$$$db$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.f.txt$$$db$$$1"
         },
         {
             "key": "PushShareg",
@@ -97,7 +97,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./pushshare.g.txt$$$db$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.g.txt$$$db$$$1"
         },
         {
             "key": "PushShare1",
@@ -109,7 +109,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.1.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.1.txt$$$$$1"
         },
         {
             "key": "PushShare2",
@@ -121,7 +121,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.2.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.2.txt$$$$$1"
         },
         {
             "key": "PushShare3",
@@ -133,7 +133,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.3.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.3.txt$$$$$1"
         },
         {
             "key": "PushShare4",
@@ -145,7 +145,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.4.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.4.txt$$$$$1"
         },
         {
             "key": "PushShare5",
@@ -157,7 +157,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.5.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.5.txt$$$$$1"
         },
         {
             "key": "PushShare6",
@@ -169,7 +169,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.6.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.6.txt$$$$$1"
         },
         {
             "key": "PushShare7",
@@ -181,7 +181,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.7.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.7.txt$$$$$1"
         },
         {
             "key": "PushShare8",
@@ -193,7 +193,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.8.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.8.txt$$$$$1"
         },
         {
             "key": "PushShare9",
@@ -205,7 +205,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.9.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.9.txt$$$$$1"
         },
         {
             "key": "PushShare10",
@@ -217,7 +217,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.10.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.10.txt$$$$$1"
         },
         {
             "key": "PushShare11",
@@ -229,7 +229,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.11.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.11.txt$$$$$1"
         },
         {
             "key": "PushShare12",
@@ -241,7 +241,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.12.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.12.txt$$$$$1"
         },
         {
             "key": "PushShare13",
@@ -253,7 +253,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.13.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.13.txt$$$$$1"
         },
         {
             "key": "PushShare14",
@@ -265,7 +265,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.14.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.14.txt$$$$$1"
         },
         {
             "key": "PushShare15",
@@ -277,7 +277,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.15.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.15.txt$$$$$1"
         },
         {
             "key": "PushShare16",
@@ -289,7 +289,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.16.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.16.txt$$$$$1"
         },
         {
             "key": "PushShare17",
@@ -301,7 +301,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.17.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.17.txt$$$$$1"
         },
         {
             "key": "PushShare18",
@@ -313,7 +313,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.18.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.18.txt$$$$$1"
         },
         {
             "key": "PushShare19",
@@ -325,7 +325,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.19.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.19.txt$$$$$1"
         },
         {
             "key": "PushShare20",
@@ -337,7 +337,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.20.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.20.txt$$$$$1"
         },
         {
             "key": "PushShare21",
@@ -349,7 +349,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.21.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.21.txt$$$$$1"
         },
         {
             "key": "PushShare22",
@@ -361,7 +361,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.22.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.22.txt$$$$$1"
         },
         {
             "key": "PushShare23",
@@ -373,7 +373,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.23.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.23.txt$$$$$1"
         },
         {
             "key": "PushShare24",
@@ -385,7 +385,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.24.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.24.txt$$$$$1"
         },
         {
             "key": "PushShare25",
@@ -397,7 +397,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.25.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.25.txt$$$$$1"
         },
         {
             "key": "PushShare26",
@@ -409,7 +409,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.26.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.26.txt$$$$$1"
         },
         {
             "key": "PushShare27",
@@ -421,7 +421,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.27.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.27.txt$$$$$1"
         },
         {
             "key": "PushShare28",
@@ -433,7 +433,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.28.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.28.txt$$$$$1"
         },
         {
             "key": "PushShare29",
@@ -445,7 +445,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.29.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.29.txt$$$$$1"
         },
         {
             "key": "PushShare30",
@@ -457,7 +457,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.30.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.30.txt$$$$$1"
         },
         {
             "key": "PushShare31",
@@ -469,7 +469,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.31.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.31.txt$$$$$1"
         },
         {
             "key": "PushShare32",
@@ -481,7 +481,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.32.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.32.txt$$$$$1"
         },
         {
             "key": "PushShare33",
@@ -493,7 +493,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.33.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.33.txt$$$$$1"
         },
         {
             "key": "PushShare34",
@@ -505,7 +505,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.34.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.34.txt$$$$$1"
         },
         {
             "key": "PushShare35",
@@ -517,7 +517,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.35.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.35.txt$$$$$1"
         },
         {
             "key": "PushShare36",
@@ -529,7 +529,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.36.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.36.txt$$$$$1"
         },
         {
             "key": "PushShare37",
@@ -541,7 +541,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.37.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.37.txt$$$$$1"
         },
         {
             "key": "PushShare38",
@@ -553,7 +553,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.38.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.38.txt$$$$$1"
         },
         {
             "key": "PushShare39",
@@ -565,7 +565,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.39.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.39.txt$$$$$1"
         },
         {
             "key": "PushShare40",
@@ -577,7 +577,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.40.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.40.txt$$$$$1"
         },
         {
             "key": "PushShare41",
@@ -589,7 +589,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.41.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.41.txt$$$$$1"
         },
         {
             "key": "PushShare42",
@@ -601,7 +601,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.42.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.42.txt$$$$$1"
         },
         {
             "key": "PushShare43",
@@ -613,7 +613,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.43.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.43.txt$$$$$1"
         },
         {
             "key": "PushShare44",
@@ -625,7 +625,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.44.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.44.txt$$$$$1"
         },
         {
             "key": "PushShare45",
@@ -637,7 +637,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.45.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.45.txt$$$$$1"
         },
         {
             "key": "PushShare46",
@@ -649,7 +649,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.46.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.46.txt$$$$$1"
         },
         {
             "key": "PushShare47",
@@ -661,7 +661,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.47.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.47.txt$$$$$1"
         },
         {
             "key": "PushShare48",
@@ -673,7 +673,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.48.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.48.txt$$$$$1"
         },
         {
             "key": "PushShare49",
@@ -685,7 +685,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.49.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.49.txt$$$$$1"
         },
         {
             "key": "PushShare50",
@@ -697,7 +697,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.50.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.50.txt$$$$$1"
         },
         {
             "key": "PushShare51",
@@ -709,7 +709,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.51.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.51.txt$$$$$1"
         },
         {
             "key": "PushShare52",
@@ -721,7 +721,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.52.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.52.txt$$$$$1"
         },
         {
             "key": "PushShare53",
@@ -733,7 +733,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.53.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.53.txt$$$$$1"
         },
         {
             "key": "PushShare54",
@@ -745,7 +745,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.54.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.54.txt$$$$$1"
         },
         {
             "key": "PushShare55",
@@ -757,7 +757,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.55.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.55.txt$$$$$1"
         },
         {
             "key": "PushShare56",
@@ -769,7 +769,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.56.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.56.txt$$$$$1"
         },
         {
             "key": "PushShare57",
@@ -781,7 +781,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.57.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.57.txt$$$$$1"
         },
         {
             "key": "PushShare58",
@@ -793,7 +793,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.58.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.58.txt$$$$$1"
         },
         {
             "key": "PushShare59",
@@ -805,7 +805,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.59.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.59.txt$$$$$1"
         },
         {
             "key": "PushShare60",
@@ -817,7 +817,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.60.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.60.txt$$$$$1"
         },
         {
             "key": "PushShare61",
@@ -829,7 +829,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.61.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.61.txt$$$$$1"
         },
         {
             "key": "PushShare62",
@@ -841,7 +841,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.62.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.62.txt$$$$$1"
         },
         {
             "key": "PushShare63",
@@ -853,7 +853,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.63.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.63.txt$$$$$1"
         },
         {
             "key": "PushShare64",
@@ -865,7 +865,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.64.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.64.txt$$$$$1"
         },
         {
             "key": "PushShare65",
@@ -877,7 +877,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.65.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.65.txt$$$$$1"
         },
         {
             "key": "PushShare66",
@@ -889,7 +889,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.66.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.66.txt$$$$$1"
         },
         {
             "key": "PushShare67",
@@ -901,7 +901,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.67.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.67.txt$$$$$1"
         },
         {
             "key": "PushShare68",
@@ -913,7 +913,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.68.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.68.txt$$$$$1"
         },
         {
             "key": "PushShare69",
@@ -925,7 +925,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.69.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.69.txt$$$$$1"
         },
         {
             "key": "PushShare70",
@@ -937,7 +937,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.70.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.70.txt$$$$$1"
         },
         {
             "key": "PushShare71",
@@ -949,7 +949,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.71.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.71.txt$$$$$1"
         },
         {
             "key": "PushShare72",
@@ -961,7 +961,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.72.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.72.txt$$$$$1"
         },
         {
             "key": "PushShare73",
@@ -973,7 +973,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.73.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.73.txt$$$$$1"
         },
         {
             "key": "PushShare74",
@@ -985,7 +985,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.74.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.74.txt$$$$$1"
         },
         {
             "key": "PushShare75",
@@ -997,7 +997,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.75.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.75.txt$$$$$1"
         },
         {
             "key": "PushShare76",
@@ -1009,7 +1009,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.76.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.76.txt$$$$$1"
         },
         {
             "key": "PushShare77",
@@ -1021,7 +1021,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.77.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.77.txt$$$$$1"
         },
         {
             "key": "PushShare78",
@@ -1033,7 +1033,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.78.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.78.txt$$$$$1"
         },
         {
             "key": "PushShare79",
@@ -1045,7 +1045,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.79.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.79.txt$$$$$1"
         },
         {
             "key": "PushShare80",
@@ -1057,7 +1057,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.80.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.80.txt$$$$$1"
         },
         {
             "key": "PushShare81",
@@ -1069,7 +1069,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.81.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.81.txt$$$$$1"
         },
         {
             "key": "PushShare82",
@@ -1081,7 +1081,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.82.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.82.txt$$$$$1"
         },
         {
             "key": "PushShare83",
@@ -1093,7 +1093,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.83.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.83.txt$$$$$1"
         },
         {
             "key": "PushShare84",
@@ -1105,7 +1105,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.84.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.84.txt$$$$$1"
         },
         {
             "key": "PushShare85",
@@ -1117,7 +1117,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.85.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.85.txt$$$$$1"
         },
         {
             "key": "PushShare86",
@@ -1129,7 +1129,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.86.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.86.txt$$$$$1"
         },
         {
             "key": "PushShare87",
@@ -1141,7 +1141,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.87.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.87.txt$$$$$1"
         },
         {
             "key": "PushShare88",
@@ -1153,7 +1153,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.88.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.88.txt$$$$$1"
         },
         {
             "key": "PushShare89",
@@ -1165,7 +1165,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.89.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.89.txt$$$$$1"
         },
         {
             "key": "PushShare90",
@@ -1177,7 +1177,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.90.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.90.txt$$$$$1"
         },
         {
             "key": "PushShare91",
@@ -1189,7 +1189,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.91.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.91.txt$$$$$1"
         },
         {
             "key": "PushShare92",
@@ -1201,7 +1201,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.92.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.92.txt$$$$$1"
         },
         {
             "key": "PushShare93",
@@ -1213,7 +1213,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.93.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.93.txt$$$$$1"
         },
         {
             "key": "PushShare94",
@@ -1225,7 +1225,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.94.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.94.txt$$$$$1"
         },
         {
             "key": "PushShare95",
@@ -1237,7 +1237,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.95.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.95.txt$$$$$1"
         },
         {
             "key": "PushShare96",
@@ -1249,7 +1249,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.96.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.96.txt$$$$$1"
         },
         {
             "key": "PushShare97",
@@ -1261,7 +1261,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.97.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.97.txt$$$$$1"
         },
         {
             "key": "PushShare98",
@@ -1273,7 +1273,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.98.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.98.txt$$$$$1"
         },
         {
             "key": "PushShare99",
@@ -1285,7 +1285,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.99.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.99.txt$$$$$1"
         },
         {
             "key": "PushShare100",
@@ -1297,7 +1297,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.100.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.100.txt$$$$$1"
         },
         {
             "key": "PushShare101",
@@ -1309,7 +1309,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.101.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.101.txt$$$$$1"
         },
         {
             "key": "PushShare102",
@@ -1321,7 +1321,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.102.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.102.txt$$$$$1"
         },
         {
             "key": "PushShare103",
@@ -1333,7 +1333,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.103.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.103.txt$$$$$1"
         },
         {
             "key": "PushShare104",
@@ -1345,7 +1345,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.104.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.104.txt$$$$$1"
         },
         {
             "key": "PushShare105",
@@ -1357,7 +1357,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.105.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.105.txt$$$$$1"
         },
         {
             "key": "PushShare106",
@@ -1369,7 +1369,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.106.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.106.txt$$$$$1"
         },
         {
             "key": "PushShare107",
@@ -1381,7 +1381,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.107.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.107.txt$$$$$1"
         },
         {
             "key": "PushShare108",
@@ -1393,7 +1393,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.108.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.108.txt$$$$$1"
         },
         {
             "key": "PushShare109",
@@ -1405,7 +1405,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.109.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.109.txt$$$$$1"
         },
         {
             "key": "PushShare110",
@@ -1417,7 +1417,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.110.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.110.txt$$$$$1"
         },
         {
             "key": "PushShare111",
@@ -1429,7 +1429,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.111.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.111.txt$$$$$1"
         },
         {
             "key": "PushShare112",
@@ -1441,7 +1441,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.112.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.112.txt$$$$$1"
         },
         {
             "key": "PushShare113",
@@ -1453,7 +1453,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.113.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.113.txt$$$$$1"
         },
         {
             "key": "PushShare114",
@@ -1465,7 +1465,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.114.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.114.txt$$$$$1"
         },
         {
             "key": "PushShare115",
@@ -1477,7 +1477,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.115.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.115.txt$$$$$1"
         },
         {
             "key": "PushShare116",
@@ -1489,7 +1489,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.116.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.116.txt$$$$$1"
         },
         {
             "key": "PushShare117",
@@ -1501,7 +1501,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.117.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.117.txt$$$$$1"
         },
         {
             "key": "PushShare118",
@@ -1513,7 +1513,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.118.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.118.txt$$$$$1"
         },
         {
             "key": "PushShare119",
@@ -1525,7 +1525,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.119.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.119.txt$$$$$1"
         },
         {
             "key": "PushShare120",
@@ -1537,7 +1537,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.120.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.120.txt$$$$$1"
         },
         {
             "key": "PushShare121",
@@ -1549,7 +1549,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.121.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.121.txt$$$$$1"
         },
         {
             "key": "PushShare122",
@@ -1561,7 +1561,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.122.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.122.txt$$$$$1"
         },
         {
             "key": "PushShare123",
@@ -1573,7 +1573,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.123.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.123.txt$$$$$1"
         },
         {
             "key": "PushShare124",
@@ -1585,7 +1585,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.124.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.124.txt$$$$$1"
         },
         {
             "key": "PushShare125",
@@ -1597,7 +1597,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.125.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.125.txt$$$$$1"
         },
         {
             "key": "PushShare126",
@@ -1609,7 +1609,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.126.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.126.txt$$$$$1"
         },
         {
             "key": "PushShare127",
@@ -1621,7 +1621,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.127.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.127.txt$$$$$1"
         },
         {
             "key": "PushShare128",
@@ -1633,7 +1633,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.128.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.128.txt$$$$$1"
         },
         {
             "key": "PushShare129",
@@ -1645,7 +1645,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.129.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.129.txt$$$$$1"
         },
         {
             "key": "PushShare130",
@@ -1657,7 +1657,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.130.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.130.txt$$$$$1"
         },
         {
             "key": "PushShare131",
@@ -1669,7 +1669,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.131.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.131.txt$$$$$1"
         },
         {
             "key": "PushShare132",
@@ -1681,7 +1681,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.132.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.132.txt$$$$$1"
         },
         {
             "key": "PushShare133",
@@ -1693,7 +1693,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.133.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.133.txt$$$$$1"
         },
         {
             "key": "PushShare134",
@@ -1705,7 +1705,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.134.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.134.txt$$$$$1"
         },
         {
             "key": "PushShare135",
@@ -1717,7 +1717,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.135.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.135.txt$$$$$1"
         },
         {
             "key": "PushShare136",
@@ -1729,7 +1729,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.136.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.136.txt$$$$$1"
         },
         {
             "key": "PushShare137",
@@ -1741,7 +1741,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.137.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.137.txt$$$$$1"
         },
         {
             "key": "PushShare138",
@@ -1753,7 +1753,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.138.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.138.txt$$$$$1"
         },
         {
             "key": "PushShare139",
@@ -1765,7 +1765,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pushshare.139.txt$$$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/lizhun7740/bbtv/main/ad/jsm/pushshare.139.txt$$$$$1"
         }
     ],
     "parses": [
